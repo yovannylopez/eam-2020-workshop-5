@@ -2,16 +2,20 @@ extends template
 
 block content
   div(class="row")
-    div(class="col-6")
-      video(controls, poster=item.image)
-        source(src=item.video, type="video/mp4")
-    div(class="col-6")
-      h2 Album:
+      h2 Video destacado:
+      iframe(src=item.video, width="560", height="315", frameborder="0", allowfullscreen)
+      h2 Álbum:
       p #{item.album}
-      h2 Artist:
+      h2 Artista:
       p #{item.artist}
-      h2 Description:
+      h2 Año de lanzamiento:
+      p #{item.release}
+      h2 Tipo de álbum:
+      p #{item.type}
+      h2 Descripción:
       p #{item.description}
-      h2 Audio:
+      h2 Audio destacado:
       audio(controls)
         source(src=item.audio, type="audio/mp3")
+      h2 Carátula:
+      img(src=item.image)
