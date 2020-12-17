@@ -1,0 +1,27 @@
+{
+  "name": "workshop-5",
+  "version": "0.1.0",
+  "description": "Node.js Project Example by EAM",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "backend",
+    "frontend",
+    "html",
+    "css"
+  ],
+  "author": "Yovanny López",
+  "license": "ISC",
+  "repository": "https://github.com/yovannylopez/eam-2020-workshop-5",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
