@@ -16,9 +16,14 @@ block content
       p #{item.type}
       h2 Descripción:
       p #{item.description}
-      h2 Audio destacado:
-      audio(controls)
-        source(src=item.audio, type="audio/mp3")
-    div(class="col-xs-12")
+    div(class="col-xs-12 col-sm-6")
       h2 Carátula:
       img(src=item.image, alt=item.alt)
+    div(class="col-xs-12 col-sm-6")
+      h2 Canciones:
+      each song in item.songs
+        ul
+          li #{song.id}. #{song.song}
+      h2 Canción destacada:
+      audio(controls)
+        source(src=item.audio, type="audio/mp3")
