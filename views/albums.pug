@@ -1,11 +1,10 @@
 extends template
 
 block content
-  section(class="row")
-    div(class="col-xs-12 col-sm-6")
-      h2 Video destacado:
-      iframe(src=item.video, width="560", height="315", frameborder="0", allowfullscreen)
-    div(class="col-xs-12 col-sm-6")
+  section(class="album-section")
+    div(class="")
+      img(src=item.image, class="image-poster", alt=item.alt)
+    div(class="album-info")
       h2 Álbum:
       p #{item.album}
       h2 Artista:
@@ -15,15 +14,14 @@ block content
       h2 Tipo de álbum:
       p #{item.type}
       h2 Descripción:
-      p #{item.description}
-    div(class="col-xs-12 col-sm-6")
-      h2 Carátula:
-      img(src=item.image, alt=item.alt)
-    div(class="col-xs-12 col-sm-6")
-      h2 Canciones:
-      each song in item.songs
-        ul
-          li #{song.id}. #{song.song}
+      p(class="description") #{item.description}
       h2 Canción destacada:
       audio(controls)
         source(src=item.audio, type="audio/mp3")
+    div(class="album-info")
+      h2 Canciones del álbum:
+      each song in item.songs
+        p #{song.id}. #{song.song}
+  div(class="video")
+    h2 Video destacado:
+    iframe(src=item.video, width="560", height="315", frameborder="0", allowfullscreen)

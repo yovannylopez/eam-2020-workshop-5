@@ -1,12 +1,13 @@
 extends template
 
 block content
-  section(class="row space-xs")
+
+  section(class="list-section")
     each item in data
-      article(class="articles center-xs col-xs-12 col-sm-4 col-md-3")
-        div
-          img(src=item.thumbnail, class="image", alt=item.alt, title=item.album)
-          h2() Álbum:
+      article(class="card")
+        img(src=item.thumbnail, class="image-thumb", alt=item.alt, title=item.album)
+        div(class="card-body")
+          h2 Álbum:
             p #{item.album}
           h2 Artista:
           p #{item.artist}
