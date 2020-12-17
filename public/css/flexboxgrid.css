@@ -1,11 +1,5 @@
 .container {
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.container-fluid {
-  padding-right: 2rem;
-  padding-left: 2rem;
+  width: 100vw;
 }
 
 .row {

@@ -5,8 +5,10 @@ block content
   section(class="row")
     each item in data
       article(class="col-xs-12 col-sm-6 col-md-3 center-xs")
-        img(src=item.thumbnail, class="card-img-top", alt=item.alt, title=item.album)
-        div(class="card-body")
-          h2(class="card-title") Álbum: #{item.album}
-          h3 Artista: #{item.artist}
-          a(href=`/albums?id=${item.id}`, class="btn btn-primary") Ver más información
+        img(src=item.thumbnail, class="", alt=item.alt, title=item.album)
+        div()
+          h2() Álbum:
+            p #{item.album}
+          h2 Artista:
+          p #{item.artist}
+          a(href=`/albums?id=${item.id}`, class="button") Ver más información

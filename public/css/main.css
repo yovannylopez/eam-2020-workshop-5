@@ -1,18 +1,52 @@
-*, *:before, *:after {
+* {
   box-sizing: border-box;
   font-family: sans-serif;
-  margin: 0;
-  padding: 0;
   text-decoration: none;
 }
 
 :root {
-  --black-alpha: rgba(0, 0, 0, 0.5);
-  --black-alpha-mobile: rgba(0, 0, 0, 0.8);
   --black-color: #000000;
   --blue-color: #18a6e0;
-  --green-color: #87bb50;
-  --primary: #1b2456;
-  --secondary: #121a3f;
   --white-color: #ffffff;
+}
+
+h1, h2 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p, a {
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  background-color: var(--black-color);
+  color: var(--white-color);
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+h2 {
+  font-size: 1em;
+  margin-top: 0.8em;
+}
+
+p {
+  font-size: 0.9em;
+}
+
+.button {
+  background-color: var(--blue-color);
+  border: none;
+  border-radius: 5px;
+  color: var(--white-color);
+  font-size: 0.8em;
+  margin-top: 10px;
+  padding: 0.5em 1em;
+}
+
+article {
+  margin: 1em 0;
 }
