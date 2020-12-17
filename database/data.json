@@ -3,6 +3,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a83",
       "album": "Warcry",
+      "alt": "imagen álbum Warcry",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Este trabajo fue en gran medida una colaboración de los miembros de la banda, quienes en ese momento estaban en sus antiguas formaciones. Únicamente participaron como miembros oficiales Víctor García y Alberto Ardines; los demás aparecen como invitados.",
@@ -15,6 +16,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a85",
       "album": "El sello de los tiempos",
+      "alt": "imagen álbum El sello de los tiempos",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "En este trabajo todos los miembros dejaron sus respectivas bandas para formar parte oficial de WarCry, este trabajo también marcó la llegada de un teclista a la banda, Manuel Ramil, el cual compuso los dos instrumentales del disco: El sello de los tiempos y Renacer.",
@@ -27,6 +29,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a86",
       "album": "Alea Jacta Est",
+      "alt": "imagen álbum Alea Jacta Est",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Este álbum fue el último en presentar al bajista Álvaro Jardón que dejó el grupo al terminar el último concierto de la gira de El sello de los tiempos debido a razones personales y musicales. El resto de los integrantes respetaron su decisión y dijeron que sus aportes estarán siempre presentes en la historia de WarCry.",
@@ -39,6 +42,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a84",
       "album": "¿Dónde está la luz?",
+      "alt": "imagen álbum ¿Dónde está la luz?",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Es el cuarto álbum de la banda WarCry publicado originalmente el 1 de febrero de 2005. Este trabajo fue bien recibido por los fanes de la banda. En cuanto a las letras de las canciones, hubo un cambio drástico, hablando más de temas sociales que el acostumbrado tema épico en la banda, pero con el mismo estilo fuerte que los caracteriza. Además, fue el primer trabajo con el bajista Roberto García.",
@@ -50,7 +54,8 @@
     },
     {
       "id": "58fdbf5c0ef8a50b4cdd9a85",
-      "album": "Directo a la luz?",
+      "album": "Directo a la luz",
+      "alt": "imagen álbum Directo a la luz",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "es un álbum en vivo de la banda española WarCry, publicado originalmente el 27 de febrero de 2006. Es el primer LP de WarCry en directo, fue grabado en Madrid el 5 de noviembre de 2005 en la sala Divino Aqualung y publicado en formato DVD + CD. Este trabajo recibió el DVD de oro, ocupando además durante varias semanas desde su salida el número 1 en la lista de ventas de DVD de España.",
@@ -63,6 +68,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a88",
       "album": "La quinta esencia",
+      "alt": "imagen álbum La quinta esencia",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Es el quinto álbum de la banda WarCry, publicado originalmente el 18 de septiembre de 2006. Este trabajo es una mezcla de los cuatro trabajos anteriores de la banda, pero con un estilo más avanzado y fuerte. Este fue el último trabajo en el que participaron Alberto Ardines, Fernando Mon y Manuel Ramil.",
@@ -75,6 +81,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a89",
       "album": "Revolución",
+      "alt": "imagen álbum Revolución",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Revolución es un disco de la banda de heavy metal asturiana WarCry. Fue lanzado el 27 de octubre de 2008 en formato digipack CD-DVD, con un contenido de doce canciones y un vídeo de los miembros en el estudio de grabación. Este fue el primer y único álbum con el guitarrista José Rubio.",
@@ -87,6 +94,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a8a",
       "album": "Alfa",
+      "alt": "imagen álbum Alfa",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Alfa es un álbum de la banda de heavy y power metal asturiana WarCry. Fue lanzado el 15 de abril de 2011 con un contenido de diez canciones. Es el primer disco de Pablo García como único guitarrista y de Santi Novoa como teclista.",
@@ -99,6 +107,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a8f",
       "album": "Omega",
+      "alt": "imagen álbum Omega",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Es el segundo álbum en vivo de la banda WarCry publicado originalmente el 1 de diciembre de 2012. Es el segundo LP de WarCry en directo, fue grabado el 21 de enero de 2012 en un concierto multitudinario en el Palacio de Vistalegre de Madrid y publicado en formato de doble DVD. El concierto en sí está en el DVD 1. El DVD 2 contiene los bises, un concurso de Pablo, el guitarrista, donde podréis entreteneros y competir contestando a sus preguntas, una galería de geniales fotos y un “making off” donde la banda, junto a su mánager Aníbal, cuenta anécdotas de la gira, detalles del concierto.",
@@ -111,6 +120,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a8b",
       "album": "Inmortal",
+      "alt": "imagen álbum Inmortal",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Inmortal es el octavo álbum de estudio de la banda de heavy y power metal asturiana WarCry. Fue lanzado el 9 de septiembre de 2013 con un contenido de diez canciones.",
@@ -123,6 +133,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a8c",
       "album": "Donde el silencio se rompió",
+      "alt": "imagen álbum Donde el silencio se rompió",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Es el noveno álbum de estudio de la banda de heavy y power metal asturiana WarCry. Fue lanzado el 29 de mayo de 2017 con un contenido de once canciones.",
@@ -135,6 +146,7 @@
     {
       "id": "58fdbf5c0ef8a50b4cdd9a90",
       "album": "Momentos",
+      "alt": "imagen álbum Momentos",
       "artist": "Warcry",
       "audio": "/audio/",
       "description": "Momentos se lanzó el 17 de noviembre, siendo este, un disco en el que se recogen las baladas más significativas de Warcry así como un tema inédito 'La venganza del amor'",

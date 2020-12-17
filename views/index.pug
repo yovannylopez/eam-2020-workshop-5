@@ -4,8 +4,8 @@ block content
 
   section(class="row")
     each item in data
-      article(class="col-xs-12 col-sm-6 col-md-3 card")
-        img(src=item.thumbnail, class="card-img-top", alt="")
+      article(class="col-xs-12 col-sm-6 col-md-3 center-xs")
+        img(src=item.thumbnail, class="card-img-top", alt=item.alt, title=item.album)
         div(class="card-body")
           h2(class="card-title") Álbum: #{item.album}
           h3 Artista: #{item.artist}

@@ -1,12 +1,18 @@
-.img-title {
-  width: 20%;
+*, *:before, *:after {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
 }
 
-article {
-  text-align: center;
-}
-
-h2 {
-  color: #94AA48;
-  font-family: 'Lobster', cursive;
+:root {
+  --black-alpha: rgba(0, 0, 0, 0.5);
+  --black-alpha-mobile: rgba(0, 0, 0, 0.8);
+  --black-color: #000000;
+  --blue-color: #18a6e0;
+  --green-color: #87bb50;
+  --primary: #1b2456;
+  --secondary: #121a3f;
+  --white-color: #ffffff;
 }
