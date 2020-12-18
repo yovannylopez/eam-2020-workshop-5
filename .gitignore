@@ -1,7 +1,5 @@
 # Folders
 /node_modules
-/public/audio
-/public/video
 
 # Files
 package-lock.json
@@ -12,5 +10,4 @@ package-lock.json
 
 # Extensions
 *.log
-*.mp3
 *.mp4
