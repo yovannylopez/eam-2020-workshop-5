@@ -21,6 +21,10 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+  color: var(--white-color);
+}
+
 h1,
 h2 {
   font-family: 'Ubuntu', sans-serif;
@@ -29,13 +33,43 @@ h2 {
 h2,
 p {
   font-size: 0.9em;
-  margin: 0.4em 0;
+}
+
+h2 {
+  margin: 1em 0 0 0;
 }
 
 header {
+  align-items: center;
   background-color: var(--black-color);
-  color: var(--white-color);
+  display: flex;
+  justify-content: space-between;
   padding: 1em;
+}
+
+iframe {
+  height: 315px;
+  width: 560px;
+}
+
+p {
+  margin-top: 0.4em;
+}
+
+.album-btn {
+  background-color: var(--blue-color);
+  color: var(--white-color);
+}
+
+.album-btn:hover {
+  background-color: var(--blue-hover-color);
+}
+
+.album-btn,
+.home-btn {
+  font-size: 0.8em;
+  margin: 1em 0;
+  padding: 0.3em 0.8em;
 }
 
 .album-info {
@@ -48,24 +82,16 @@ header {
   justify-content: space-between;
 }
 
-.button {
-  background-color: var(--blue-color);
-  color: var(--white-color);
-  font-size: 0.8em;
-  margin: 1em 0;
-  padding: 0.3em 0.8em;
-}
-
-.button:hover {
-  background-color: var(--blue-hover-color);
-}
-
 .card {
   background-color: var(--white-color);
   border: 1px solid var(--gray-color);
   box-shadow: 0 1px 1px 0 var(--gray-color);
   margin: 0.5em 0;
   padding-bottom: 1em;
+}
+
+.card:hover {
+  box-shadow: 1px 2px 1px 1px var(--gray-color);
 }
 
 .card-body {
@@ -76,13 +102,23 @@ header {
   text-align: justify;
 }
 
+.home-btn {
+  background-color: var(--white-color);
+  color: var(--blue-color);
+}
+
+.home-btn:hover {
+  background-color: var(--blue-hover-color);
+  color: var(--white-color);
+}
+
 .image-thumb {
   max-width: 100%;
-  transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
 }
 
 .image-thumb:hover {
-  opacity: 0.75;
+  opacity: 0.6;
 }
 
 .list-section {
@@ -97,4 +133,19 @@ header {
 
 .video {
   text-align: center;
+}
+
+@media (max-width: 560px) {
+  iframe {
+    height: 180px;
+    width: 320px;
+  }
+
+  .album-section {
+    display: block;
+  }
+
+  .list-section {
+    grid-template: auto / repeat(2, 48%);
+  }
 }

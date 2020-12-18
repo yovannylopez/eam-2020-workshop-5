@@ -9,5 +9,6 @@ package-lock.json
 .idea
 
 # Extensions
+*.debug
 *.log
 *.mp4
