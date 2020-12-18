@@ -41,7 +41,9 @@ h2 {
 
 header {
   align-items: center;
-  background-color: var(--black-color);
+  background-image: url('../images/banner.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: space-between;
   padding: 1em;
