@@ -715,6 +715,206 @@
       "thumbnail": "https://www.warcry.es/wc-contenido/uploads/2017/11/WarCry-Momentos-portada--400x300.jpg",
       "type": "Recopilatorio",
       "video": "https://www.youtube.com/embed/2QnaFpqbFNs"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b01",
+      "album": "Iron Maiden",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "Iron Maiden es el primer álbum de estudio de la banda inglesa de heavy metal Iron Maiden, publicado en el Reino Unido el 14 de abril de 1980 a través de EMI y pocos meses después en los Estados Unidos por las discográficas Harvest y Capitol. La versión estadounidense incluyó el tema «Sanctuary», que en el Reino Unido fue lanzado como un sencillo. En 1998, al igual que los álbumes anteriores a The X Factor, Iron Maiden fue remasterizado con «Sanctuary» incluido en todas las ediciones.",
+      "image": "https://www.ironmaiden.com/media/discography/iron-maiden-extended-art-packshot-764.JPG",
+      "release": 1980,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Prowler"
+        },
+        {
+          "id": "2",
+          "song": "Remember Tomorrow"
+        },
+        {
+          "id": "3",
+          "song": "Running Free"
+        },
+        {
+          "id": "4",
+          "song": "Phantom of the Opera"
+        },
+        {
+          "id": "5",
+          "song": "Transylvania (Instrumental)"
+        },
+        {
+          "id": "6",
+          "song": "Strange World"
+        },
+        {
+          "id": "7",
+          "song": "Charlotte the Harlot"
+        },
+        {
+          "id": "8",
+          "song": "Iron Maiden"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/iron-maiden-extended-art-packshot-764.JPG",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/3jkREP29170"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b02",
+      "album": "Killers",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "Killers ​—en castellano: Asesinos— es el segundo álbum de estudio de la banda británica de heavy metal Iron Maiden, lanzado en febrero de 1981 por la compañía musical EMI en el Reino Unido. Este trabajo los consolidó como la banda que encabezaría el movimiento Nueva ola del heavy metal británico.",
+      "image": "https://www.ironmaiden.com/media/discography/album-killers.jpg",
+      "release": 1981,
+      "songs": [
+        {
+          "id": "1",
+          "song": "The Ides of March (Instrumental)"
+        },
+        {
+          "id": "2",
+          "song": "Wrathchild"
+        },
+        {
+          "id": "3",
+          "song": "Murders in the Rue Morgue"
+        },
+        {
+          "id": "4",
+          "song": "Another Life"
+        },
+        {
+          "id": "5",
+          "song": "Genghis Khan (Instrumental)"
+        },
+        {
+          "id": "6",
+          "song": "Innocent Exile"
+        },
+        {
+          "id": "7",
+          "song": "Killers"
+        },
+        {
+          "id": "8",
+          "song": "Prodigal Son"
+        },
+        {
+          "id": "9",
+          "song": "Purgatory"
+        },
+        {
+          "id": "10",
+          "song": "Drifter"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-killers.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/io4ObwuO24w"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b03",
+      "album": "The number of the beast",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "The Number of the Beast es el tercer álbum de estudio de la banda británica de heavy metal Iron Maiden, publicado el 22 de marzo de 1982. Este trabajo supone el primero con el vocalista Bruce Dickinson y el último con el percusionista Clive Burr. Es considerado uno de los mejores álbumes de metal de todos los tiempos.",
+      "image": "https://www.ironmaiden.com/media/discography/album-number-of-the-beast.jpg",
+      "release": 1982,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Invaders"
+        },
+        {
+          "id": "2",
+          "song": "Children of the Damned"
+        },
+        {
+          "id": "3",
+          "song": "The Prisoner"
+        },
+        {
+          "id": "4",
+          "song": "22 Acacia Avenue"
+        },
+        {
+          "id": "5",
+          "song": "The Number of the Beast"
+        },
+        {
+          "id": "6",
+          "song": "Run to the Hills"
+        },
+        {
+          "id": "7",
+          "song": "Gangland"
+        },
+        {
+          "id": "8",
+          "song": "Hallowed Be Thy Name"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-number-of-the-beast.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/86URGgqONvA"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b04",
+      "album": "Piece of mind",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "Piece of Mind3 traducible como 'Pieza mental' haciendo un juego de palabras con la expresión Peace of mind (Paz mental) es el cuarto álbum de estudio de la banda británica de heavy metal Iron Maiden. Fue lanzado al mercado el 17 de mayo de 1983 alcanzando el tercer puesto en las listas británicas.",
+      "image": "https://www.ironmaiden.com/media/discography/album-piece-of-mind.jpg",
+      "release": 1983,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Where Eagles Dare"
+        },
+        {
+          "id": "2",
+          "song": "Revelations"
+        },
+        {
+          "id": "3",
+          "song": "Flight of Icarus"
+        },
+        {
+          "id": "4",
+          "song": "Die with Your Boots On"
+        },
+        {
+          "id": "5",
+          "song": "The Trooper"
+        },
+        {
+          "id": "6",
+          "song": "Still Life"
+        },
+        {
+          "id": "7",
+          "song": "Quest for Fire"
+        },
+        {
+          "id": "8",
+          "song": "Sun and Steel"
+        },
+        {
+          "id": "9",
+          "song": "To Tame a Land"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-piece-of-mind.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/p4w2BZXL6Ss"
     }
   ]
 }

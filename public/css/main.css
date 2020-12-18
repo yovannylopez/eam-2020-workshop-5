@@ -112,6 +112,10 @@ p {
   color: var(--white-color);
 }
 
+.image-poster {
+  max-width: 100%;
+}
+
 .image-thumb {
   max-width: 100%;
   transition: opacity 0.2s ease-in-out;
@@ -125,10 +129,6 @@ p {
   display: grid;
   grid-template: auto / repeat(4, 24%);
   justify-content: space-between;
-}
-
-.image-poster {
-  max-width: 100%;
 }
 
 .video {
