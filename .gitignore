@@ -1,14 +1,26 @@
-# Folders
+# dependencies
 /node_modules
 
-# Files
-package-lock.json
+# testing
+/coverage
+.nyc_output/
 
-# Editors configs
+# production
+/build
+/dist
+
+# misc
+package-lock.json
+.DS_Store
+*.mp4
+
+# editors configs
 .vscode
 .idea
+.netbeans
+launch.json
+.history
 
-# Extensions
+# logs
 *.debug
 *.log
-*.mp4
