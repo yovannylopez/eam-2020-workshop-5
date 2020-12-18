@@ -964,6 +964,21 @@
       "video": "https://www.youtube.com/embed/9qbRHY1l0vc"
     },
     {
+      "id": "58fdbf5c0ef8a50b4cdd9c01",
+      "album": "Live after death",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Concierto grabado en vivo en Long Beach Arena, California",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-liveafterdeath.jpg",
+      "release": 1985,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-liveafterdeath.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/ulfnJ0E34fU"
+    },
+    {
       "id": "58fdbf5c0ef8a50b4cdd9b06",
       "album": "Somewhere in time",
       "alt": "imagen álbum Iron Maiden",
@@ -1058,6 +1073,21 @@
       "video": "https://www.youtube.com/embed/M6JpxDebokM"
     },
     {
+      "id": "58fdbf5c0ef8a50b4cdd9c02",
+      "album": "Maiden england '88",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Concierto grabado en vivo en Birmingham el 27 y 28 de noviembre de 1988",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-maidenengland88.jpg",
+      "release": 1989,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-maidenengland88.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/raMjtJSEByA"
+    },
+    {
       "id": "58fdbf5c0ef8a50b4cdd9b08",
       "album": "No prayer for the dying",
       "alt": "imagen álbum Iron Maiden",
@@ -1111,6 +1141,552 @@
       "thumbnail": "https://www.ironmaiden.com/media/discography/album-no-prayer-for-the-dying.jpg",
       "type": "Estudio",
       "video": "https://www.youtube.com/embed/xPV4jlOlWjA"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b09",
+      "album": "Fear of the dark",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "En español: Miedo a la oscuridad— es el noveno álbum de estudio de la banda Iron Maiden, Salió a la venta el 11 de mayo de 1992 figurando como número 1 en el ranking británico.",
+      "image": "https://www.ironmaiden.com/media/discography/album-fear-of-the-dark.jpg",
+      "release": 1992,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Be Quick or Be Dead"
+        },
+        {
+          "id": "2",
+          "song": "From Here to Eternity"
+        },
+        {
+          "id": "3",
+          "song": "Afraid to Shoot Strangers"
+        },
+        {
+          "id": "4",
+          "song": "Fear Is the Key"
+        },
+        {
+          "id": "5",
+          "song": "Childhood's End"
+        },
+        {
+          "id": "6",
+          "song": "Wasting Love"
+        },
+        {
+          "id": "7",
+          "song": "The Fugitive"
+        },
+        {
+          "id": "8",
+          "song": "Chains of Misery"
+        },
+        {
+          "id": "9",
+          "song": "The Apparition"
+        },
+        {
+          "id": "10",
+          "song": "Judas Be My Guide"
+        },
+        {
+          "id": "11",
+          "song": "Weekend Warrior"
+        },
+        {
+          "id": "12",
+          "song": "Fear of the Dark"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-fear-of-the-dark.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/CTt1vk9nM9c"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9c03",
+      "album": "Live at donington '92",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Concierto grabado en vivo en el festival Monster of rock de Donington Park en 1992",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-liveatdonington.jpg",
+      "release": 1993,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-liveatdonington.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/CL0wzpZ4SbE"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b10",
+      "album": "The X factor",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "En español: El factor X— es el décimo álbum de estudio de Iron Maiden y el primero tras la marcha de Bruce Dickinson, quién fue reemplazado por Blaze Bayley, un vocalista de voz oscura y potente pero dentro de un registro más bajo que su predecesor. Bayley fue el cantante y el líder de una banda de hard rock/heavy metal llamada Wolfsbane.",
+      "image": "https://www.ironmaiden.com/media/discography/album-the-x-factor.jpg",
+      "release": 1995,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Sign of the Cross"
+        },
+        {
+          "id": "2",
+          "song": "Lord of the Flies"
+        },
+        {
+          "id": "3",
+          "song": "Man on the Edge"
+        },
+        {
+          "id": "4",
+          "song": "Fortunes of War"
+        },
+        {
+          "id": "5",
+          "song": "Look for the Truth"
+        },
+        {
+          "id": "6",
+          "song": "The Aftermath"
+        },
+        {
+          "id": "7",
+          "song": "Judgement of Heaven"
+        },
+        {
+          "id": "8",
+          "song": "Blood on the World's Hands"
+        },
+        {
+          "id": "9",
+          "song": "The Edge of Darkness"
+        },
+        {
+          "id": "10",
+          "song": "(2 A.M.)"
+        },
+        {
+          "id": "11",
+          "song": "The Unbeliever"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-the-x-factor.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/u5UqJWRV55E"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b11",
+      "album": "Virtual XI",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Virtual XI5 es el undécimo álbum de estudio de Iron Maiden y el segundo y último con Blaze Bayley como vocalista. Después del drástico cambio que significó la oscuridad de The X Factor en el estilo de Iron Maiden se buscó retomar una línea un poco más melódica, aunque de todas formas las estructuras de composición conservan ciertas similitudes (fundamentalmente buscando optimizar el registro de Bayley) y se hace mucho más fuerte el uso de sintetizadores.",
+      "image": "https://www.ironmaiden.com/media/discography/album-virtual-xi.jpg",
+      "release": 1998,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Futureal"
+        },
+        {
+          "id": "2",
+          "song": "The Angel and the Gambler"
+        },
+        {
+          "id": "3",
+          "song": "Lightning Strikes Twice"
+        },
+        {
+          "id": "4",
+          "song": "The Clansman"
+        },
+        {
+          "id": "5",
+          "song": "When Two Worlds Collide"
+        },
+        {
+          "id": "6",
+          "song": "The Educated Fool"
+        },
+        {
+          "id": "7",
+          "song": "Don't Look to the Eyes of a Stranger"
+        },
+        {
+          "id": "8",
+          "song": "Como Estais Amigos"
+        },
+        {
+          "id": "9",
+          "song": "Virus (canción inédita)"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-virtual-xi.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/E9yLBNa-iCQ"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9c04",
+      "album": "A real live dead one",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Varios conciertos del tour fear of the dark y el tour real live",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-areallivedeadone.jpg",
+      "release": 1998,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-areallivedeadone.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/xSG5cjVyjvI"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b12",
+      "album": "Brave new world",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Es el duodécimo álbum de estudio de la banda de heavy metal Iron Maiden lanzado el 29 de mayo del 2000. Marcó la vuelta al grupo del cantante Bruce Dickinson y del guitarrista Adrian Smith lo cual generó mucha expectación e interés por la nueva etapa de la banda.",
+      "image": "https://www.ironmaiden.com/media/discography/album-brave-new-world.jpg",
+      "release": 2000,
+      "songs": [
+        {
+          "id": "1",
+          "song": "The Wicker Man"
+        },
+        {
+          "id": "2",
+          "song": "Ghost of the Navigator"
+        },
+        {
+          "id": "3",
+          "song": "Brave New World"
+        },
+        {
+          "id": "4",
+          "song": "Blood Brothers"
+        },
+        {
+          "id": "5",
+          "song": "The Mercenary"
+        },
+        {
+          "id": "6",
+          "song": "Dream of Mirrors"
+        },
+        {
+          "id": "7",
+          "song": "The Fallen Angel"
+        },
+        {
+          "id": "8",
+          "song": "The Nomad"
+        },
+        {
+          "id": "9",
+          "song": "Out of the Silent Planet"
+        },
+        {
+          "id": "10",
+          "song": "The Thin Line Between Love and Hate"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-brave-new-world.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/wAnVnp-eVYk"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9c05",
+      "album": "Rock in Rio",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Conciertos en el festival Rock in Rio",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-rockinrio.jpg",
+      "release": 2003,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-rockinrio.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/mxl3x71IDbc"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b13",
+      "album": "Dance of death",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "En español: Danza de la muerte— es el decimotercer álbum de estudio de la banda británica Iron Maiden lanzado el 8 de septiembre de 2003.",
+      "image": "https://www.ironmaiden.com/media/discography/album-dance-of-death.jpg",
+      "release": 2003,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Wildest Dreams"
+        },
+        {
+          "id": "2",
+          "song": "Rainmaker"
+        },
+        {
+          "id": "3",
+          "song": "No More Lies"
+        },
+        {
+          "id": "4",
+          "song": "Montségur"
+        },
+        {
+          "id": "5",
+          "song": "Dance of Death"
+        },
+        {
+          "id": "6",
+          "song": "Gates of Tomorrow"
+        },
+        {
+          "id": "7",
+          "song": "New Frontier"
+        },
+        {
+          "id": "8",
+          "song": "Paschendale"
+        },
+        {
+          "id": "9",
+          "song": "Face in the Sand"
+        },
+        {
+          "id": "10",
+          "song": "Age of Innocence"
+        },
+        {
+          "id": "11",
+          "song": "Journeyman"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-dance-of-death.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/fX5aMvCd7JE"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9c06",
+      "album": "Death on the road",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Conciertos grabado en Westfalenhalle Arena, Dortmund, Alemania",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-deathontheroad.jpg",
+      "release": 2005,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-deathontheroad.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/adFbq0QrUBc"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b14",
+      "album": "A matter of line and death",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "En español: Cuestión de vida o muerte— es el 14º álbum de la banda británica Iron Maiden, publicado el 25 de agosto de 2006 en Italia y en Finlandia, el 28 de agosto en todo el mundo, y el 5 de septiembre de 2006 en los Estados Unidos, Canadá y Japón. Es el primer álbum de título heavy metal en debutar en el puesto # 4 en la India, y marchándose en el puesto número 1 de la India. Llegó a ser top ten en las tablas Billboard y ha sido éxito en muchos países del mundo.",
+      "image": "https://www.ironmaiden.com/media/discography/album-a-matter-of-life-and-death.jpg",
+      "release": 2006,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Different World"
+        },
+        {
+          "id": "2",
+          "song": "These Colours Don't Run"
+        },
+        {
+          "id": "3",
+          "song": "Brighter Than a Thousand Suns"
+        },
+        {
+          "id": "4",
+          "song": "The Pilgrim"
+        },
+        {
+          "id": "5",
+          "song": "The Longest Day"
+        },
+        {
+          "id": "6",
+          "song": "Out of the Shadows"
+        },
+        {
+          "id": "7",
+          "song": "The Reincarnation of Benjamin Breeg"
+        },
+        {
+          "id": "8",
+          "song": "For the Greater Good of God"
+        },
+        {
+          "id": "9",
+          "song": "Lord of Light"
+        },
+        {
+          "id": "10",
+          "song": "The Legacy"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-a-matter-of-life-and-death.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/jvnfCfWnybY"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9c07",
+      "album": "Flight 666",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Varios conciertos grabados en la gira mundial Somewhere back in time",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-flight666.jpg",
+      "release": 2009,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-flight666.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/j9OAfOwTZaU"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b15",
+      "album": "The final frontier",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "En español: La Frontera Final— es el decimoquinto álbum de estudio de la banda británica de heavy metal Iron Maiden, lanzado el 16 de agosto de 2010 en Europa y el 17 de agosto del mismo año en Norteamérica.",
+      "image": "https://www.ironmaiden.com/media/discography/album-final-frontier.jpg",
+      "release": 2010,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Satellite 15... The Final Frontier"
+        },
+        {
+          "id": "2",
+          "song": "El Dorado"
+        },
+        {
+          "id": "3",
+          "song": "Mother of Mercy"
+        },
+        {
+          "id": "4",
+          "song": "Coming Home"
+        },
+        {
+          "id": "5",
+          "song": "The Alchemist"
+        },
+        {
+          "id": "6",
+          "song": "Isle of Avalon"
+        },
+        {
+          "id": "7",
+          "song": "Starblind"
+        },
+        {
+          "id": "8",
+          "song": "The Talisman"
+        },
+        {
+          "id": "9",
+          "song": "The Man Who Would Be King"
+        },
+        {
+          "id": "10",
+          "song": "When the Wild Wind Blows"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-final-frontier.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/8S0QcINRYJs"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9c08",
+      "album": "En vivo",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "Concierto grabado el estadio nacional de Santiago, Chile",
+      "image": "https://www.ironmaiden.com/media/discography/livealbum-envivo.jpg",
+      "release": 2012,
+      "songs": [
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/livealbum-envivo.jpg",
+      "type": "Concierto",
+      "video": "https://www.youtube.com/embed/xYSMWmpRK8s"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b16",
+      "album": "The book of souls",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/songs/maiden.mp3",
+      "description": "En español: El libro de las almas– es el decimosexto álbum de estudio de la banda de heavy metal británica Iron Maiden, el cual fue lanzado el 4 de septiembre de 2015.1​ Este álbum es el más largo de la banda hasta la fecha, con una duración de 92 minutos aproximadamente.",
+      "image": "https://www.ironmaiden.com/media/discography/album-the-book-of-souls.jpg",
+      "release": 2015,
+      "songs": [
+        {
+          "id": "1",
+          "song": "If Eternity Should Fail"
+        },
+        {
+          "id": "2",
+          "song": "Speed Of Light"
+        },
+        {
+          "id": "3",
+          "song": "The Great Unknown"
+        },
+        {
+          "id": "4",
+          "song": "The Red And The Black"
+        },
+        {
+          "id": "5",
+          "song": "When The River Runs Deep"
+        },
+        {
+          "id": "6",
+          "song": "The Book Of Souls"
+        },
+        {
+          "id": "7",
+          "song": "Death Or Glory"
+        },
+        {
+          "id": "8",
+          "song": "Shadows Of The Valley"
+        },
+        {
+          "id": "9",
+          "song": "Tears Of A Clown"
+        },
+        {
+          "id": "10",
+          "song": "The Man Of Sorrows"
+        },
+        {
+          "id": "11",
+          "song": "Empire Of The Clouds"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-the-book-of-souls.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/-F7A24f6gNc"
     }
   ]
 }
