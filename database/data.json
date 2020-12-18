@@ -871,7 +871,7 @@
       "alt": "imagen álbum Iron Maiden",
       "artist": "Iron Maiden",
       "audio": "/audio/maiden.mp3",
-      "description": "Piece of Mind3 traducible como 'Pieza mental' haciendo un juego de palabras con la expresión Peace of mind (Paz mental) es el cuarto álbum de estudio de la banda británica de heavy metal Iron Maiden. Fue lanzado al mercado el 17 de mayo de 1983 alcanzando el tercer puesto en las listas británicas.",
+      "description": "Piece of Mind traducible como 'Pieza mental' haciendo un juego de palabras con la expresión Peace of mind (Paz mental) es el cuarto álbum de estudio de la banda británica de heavy metal Iron Maiden. Fue lanzado al mercado el 17 de mayo de 1983 alcanzando el tercer puesto en las listas británicas.",
       "image": "https://www.ironmaiden.com/media/discography/album-piece-of-mind.jpg",
       "release": 1983,
       "songs": [
@@ -915,6 +915,202 @@
       "thumbnail": "https://www.ironmaiden.com/media/discography/album-piece-of-mind.jpg",
       "type": "Estudio",
       "video": "https://www.youtube.com/embed/p4w2BZXL6Ss"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b05",
+      "album": "Powerslave",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "En español: Esclavo del poder— es el quinto álbum de estudio de la banda inglesa de heavy metal Iron Maiden publicado en 1984. La portada presenta a Eddie the Head como la estatua enorme de un faraón.",
+      "image": "https://www.ironmaiden.com/media/discography/album-power-slave.jpg",
+      "release": 1984,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Aces High"
+        },
+        {
+          "id": "2",
+          "song": "Two Minutes to Midnight"
+        },
+        {
+          "id": "3",
+          "song": "Losfer Words (Big 'Orra) (Instrumental)"
+        },
+        {
+          "id": "4",
+          "song": "Flash of the Blade"
+        },
+        {
+          "id": "5",
+          "song": "The Duellists"
+        },
+        {
+          "id": "6",
+          "song": "Back in the Village"
+        },
+        {
+          "id": "7",
+          "song": "Powerslave"
+        },
+        {
+          "id": "8",
+          "song": "Powerslave"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-power-slave.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/9qbRHY1l0vc"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b06",
+      "album": "Somewhere in time",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "Fue lanzado al mercado el 29 de septiembre de 1986, siendo el primer álbum de estudio que no se publicó un año después de su antecesor; ėste aspecto fue justificado por la propia banda para tener más tiempo para componer nuevas canciones, algo que sería la norma general en lo sucesivo.",
+      "image": "https://www.ironmaiden.com/media/discography/album-somewhere-in-time.jpg",
+      "release": 1986,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Caught Somewhere in Time"
+        },
+        {
+          "id": "2",
+          "song": "Wasted Years"
+        },
+        {
+          "id": "3",
+          "song": "Sea of Madness"
+        },
+        {
+          "id": "4",
+          "song": "Heaven Can Wait"
+        },
+        {
+          "id": "5",
+          "song": "The Loneliness of the Long Distance Runner"
+        },
+        {
+          "id": "6",
+          "song": "Stranger in a Strange Land"
+        },
+        {
+          "id": "7",
+          "song": "Deja-Vu"
+        },
+        {
+          "id": "8",
+          "song": "Alexander the Great"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-somewhere-in-time.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/Ij99dud8-0A"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b07",
+      "album": "Seventh son of a seventh son",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "Se trata de un álbum conceptual acerca de la historia de un vidente; el séptimo hijo de un séptimo hijo, que tendría facultades psíquicas como la clarividencia y otras mancias.",
+      "image": "https://www.ironmaiden.com/media/discography/album-seventh-son.jpg",
+      "release": 1988,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Moonchild"
+        },
+        {
+          "id": "2",
+          "song": "Infinite Dreams"
+        },
+        {
+          "id": "3",
+          "song": "Can I Play with Madness"
+        },
+        {
+          "id": "4",
+          "song": "The Evil That Men Do"
+        },
+        {
+          "id": "5",
+          "song": "Seventh Son of a Seventh Son"
+        },
+        {
+          "id": "6",
+          "song": "The Prophecy"
+        },
+        {
+          "id": "7",
+          "song": "The Clairvoyant"
+        },
+        {
+          "id": "8",
+          "song": "Only the Good Die Young"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-seventh-son.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/M6JpxDebokM"
+    },
+    {
+      "id": "58fdbf5c0ef8a50b4cdd9b08",
+      "album": "No prayer for the dying",
+      "alt": "imagen álbum Iron Maiden",
+      "artist": "Iron Maiden",
+      "audio": "/audio/maiden.mp3",
+      "description": "Se trata de un álbum conceptual acerca de la historia de un vidente; el séptimo hijo de un séptimo hijo, que tendría facultades psíquicas como la clarividencia y otras mancias.",
+      "image": "https://www.ironmaiden.com/media/discography/album-no-prayer-for-the-dying.jpg",
+      "release": 1990,
+      "songs": [
+        {
+          "id": "1",
+          "song": "Tailgunner"
+        },
+        {
+          "id": "2",
+          "song": "Holy Smoke"
+        },
+        {
+          "id": "3",
+          "song": "No Prayer for the Dying"
+        },
+        {
+          "id": "4",
+          "song": "Public Enema Number One"
+        },
+        {
+          "id": "5",
+          "song": "Fates Warning"
+        },
+        {
+          "id": "6",
+          "song": "The Assassin"
+        },
+        {
+          "id": "7",
+          "song": "Run Silent Run Deep"
+        },
+        {
+          "id": "8",
+          "song": "Hooks in You"
+        },
+        {
+          "id": "9",
+          "song": "Bring Your Daughter... to the Slaughter"
+        },
+        {
+          "id": "10",
+          "song": "Mother Russia"
+        }
+      ],
+      "thumbnail": "https://www.ironmaiden.com/media/discography/album-no-prayer-for-the-dying.jpg",
+      "type": "Estudio",
+      "video": "https://www.youtube.com/embed/xPV4jlOlWjA"
     }
   ]
 }
